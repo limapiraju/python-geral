@@ -12,3 +12,4 @@ Este repositório contém uma miscelânea de códigos, tutoriais e brincadeiras 
   * **008 - Módulo `random`:** introdução ao módulo `random` do Python;
   * **009 - Listas:** introdução às listas e seus principais métodos;
   * **010 - Funções:** como criar suas próprias funções usando a palavra reservada `def`;
+  [em atualização...]
